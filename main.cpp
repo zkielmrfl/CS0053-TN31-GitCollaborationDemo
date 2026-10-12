@@ -9,5 +9,7 @@ int main() {
     cout << "1. Add Student" << endl;
     cout << "2. View Students" << endl;
     cout << "3. Exit" << endl;
+
+    cout << "about added" << endl;
     return 0;
 }
